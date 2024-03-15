@@ -1,0 +1,1 @@
+# monai-genai-aocr-workshop
